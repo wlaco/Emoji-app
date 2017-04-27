@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		962430D91EB1424D008761C6 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962430D81EB1424D008761C6 /* Emoji.swift */; };
 		96FDD9D71EB0239E00C55A7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96FDD9D61EB0239E00C55A7A /* AppDelegate.swift */; };
 		96FDD9D91EB0239E00C55A7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96FDD9D81EB0239E00C55A7A /* ViewController.swift */; };
 		96FDD9DC1EB0239E00C55A7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96FDD9DA1EB0239E00C55A7A /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		962430D81EB1424D008761C6 /* Emoji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 		96FDD9D31EB0239E00C55A7A /* Udemy Emoji Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Udemy Emoji Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96FDD9D61EB0239E00C55A7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96FDD9D81EB0239E00C55A7A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				96FDD9D81EB0239E00C55A7A /* ViewController.swift */,
 				96FDD9E81EB02F4C00C55A7A /* DefinitionViewController.swift */,
 				96FDD9DA1EB0239E00C55A7A /* Main.storyboard */,
+				962430D81EB1424D008761C6 /* Emoji.swift */,
 				96FDD9DD1EB0239E00C55A7A /* Assets.xcassets */,
 				96FDD9DF1EB0239E00C55A7A /* LaunchScreen.storyboard */,
 				96FDD9E21EB0239E00C55A7A /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				96FDD9D91EB0239E00C55A7A /* ViewController.swift in Sources */,
 				96FDD9E91EB02F4C00C55A7A /* DefinitionViewController.swift in Sources */,
+				962430D91EB1424D008761C6 /* Emoji.swift in Sources */,
 				96FDD9D71EB0239E00C55A7A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -305,6 +309,7 @@
 				96FDD9E71EB0239F00C55A7A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
